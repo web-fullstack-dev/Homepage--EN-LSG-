@@ -1,3 +1,5 @@
+console.log("Hello to all the developers who visit here ❤️. This code already is in the repositiori of Git.")
+
 let changeBackground = document.querySelector(".js-changeBackground");
 let container = document.querySelector(".container")
 let lightBlueBackground = document.querySelector(".lightBlueBackground");
