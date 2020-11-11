@@ -1,0 +1,38 @@
+.tabelAboutMySkills {
+  color: hsl(0, 0%, 50%);
+  background-color: hsl(0, 0%, 50%);
+}
+
+.tableCaptionAboutMySkills {
+  background-color: hsl(0, 0%, 50%);
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.tableTH {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(195, 53%, 79%);
+  padding: 5px;
+  transition: 0.3s;
+}
+
+.tableTH:hover {
+  background-color: hsl(195, 53%, 59%);
+}
+
+.tableTD {
+  color: hsl(0, 0%, 50%);
+  padding: 10px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.tableTD:hover {
+  background-color: hsl(0, 0%, 95%);
+}
+
+.tableTH, .tableTD {
+  text-align: center;
+  border: 1px solid hsl(0, 0%, 50%);
+}

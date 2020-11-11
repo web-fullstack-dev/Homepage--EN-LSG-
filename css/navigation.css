@@ -1,0 +1,27 @@
+.nav {
+  background-color: hsl(0, 0%, 50%);
+}
+
+.navUL {
+  padding: 16px;
+  line-height: 1,6;
+}
+
+.navLink {
+  color: hsl(0, 0%, 100%);
+  list-style: none;
+  text-decoration: none;
+}
+
+.navLinkLI {
+  padding: 6px;
+}
+
+.navLinkLI:hover {
+  background-color: hsl(0,0%, 60%);
+}
+
+.navLinkLI--border-bottom {
+  padding: 6px;
+  border-bottom: 3px solid hsl(0, 0%, 100%);
+}
