@@ -1,4 +1,4 @@
-console.log("Hello to all the developers who visit here ❤️. This code already is in the repositiori of Git.")
+console.log("Hello to all the developers who visit here ❤️. This code already is in the repositiory of Git.")
 
 let changeBackground = document.querySelector(".js-changeBackground");
 let container = document.querySelector(".container")
