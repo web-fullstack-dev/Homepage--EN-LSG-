@@ -1,3 +1,1 @@
-HTML
-CSS
-JavaScript
+A simple web page about the author, made with technologies JavaScript, CSS and HTML
