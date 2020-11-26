@@ -1,1 +1,1 @@
-A simple web page about the author, made with technologies JavaScript, CSS and HTML
+A simple web page about the author, made with Front End's  technologies as JavaScript, CSS and HTML
