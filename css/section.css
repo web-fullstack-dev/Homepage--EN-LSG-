@@ -1,0 +1,27 @@
+.headerCentered {
+  text-align: center;
+}
+
+.sectionHeaderIMG {
+  border-radius: 50%;
+  width: 150px;
+  border: 6px solid hsl(0, 0%, 100%); /* border */
+  margin-top: 15px;
+  margin-bottom: 0;
+  box-shadow: 3px 3px 15px hsl(0, 0%, 100%); /* box-shadow */
+}
+
+.sectionHeaderH1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 33px;
+}
+
+.text--line-through {
+  text-decoration-line: line-through; 
+}
+
+.div__underline--white {
+  padding: 10px;
+  width: 100%;
+  border-bottom: 3px solid hsl(0, 0%, 100%); 
+}

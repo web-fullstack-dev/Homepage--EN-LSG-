@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
+.body {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
