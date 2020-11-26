@@ -5,10 +5,10 @@
 .sectionHeaderIMG {
   border-radius: 50%;
   width: 150px;
-  border: 6px solid hsl(0, 0%, 100%); /* border */
+  border: 6px solid hsl(0, 0%, 100%);
   margin-top: 15px;
   margin-bottom: 0;
-  box-shadow: 3px 3px 15px hsl(0, 0%, 100%); /* box-shadow */
+  box-shadow: 3px 3px 15px hsl(0, 0%, 100%); 
 }
 
 .sectionHeaderH1 {
