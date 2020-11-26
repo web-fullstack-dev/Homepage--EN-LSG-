@@ -15,7 +15,3 @@
   color: hsl(0, 0%, 100%);
   font-size: 33px;
 }
-
-.text--line-through {
-  text-decoration-line: line-through; 
-}
