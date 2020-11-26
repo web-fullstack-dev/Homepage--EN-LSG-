@@ -16,10 +16,6 @@
   font-size: 33px;
 }
 
-.text--line-through {
-  text-decoration-line: line-through; 
-}
-
 .div__underline--white {
   padding: 10px;
   width: 100%;
