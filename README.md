@@ -1,0 +1,1 @@
+## Simple Front End Page about author, made with technologies JavaScript, CSS and HTML
