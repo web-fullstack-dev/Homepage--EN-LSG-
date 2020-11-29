@@ -15,14 +15,36 @@
   color: hsl(0, 0%, 100%);
   background-color: hsl(0,0%, 60%);
 }
-.grayUnderline {
-  padding: 10px;
-  width: 100%;
-  border-bottom: 3px solid hsl(0, 0%, 50%);
+
+/* _____________________________________ */
+.lightBlueNavColor {
+  background-color: hsl(195, 53%, 69%)l
+}
+/* _____________________________________ */
+
+.grayColorImage {
+  border: 6px solid hsl(0, 0%, 50%);
+  box-shadow: 3px 3px 15px hsl(0, 0%, 50%);
 }
 
-.lightGrayBackground {
-  background-color: hsl(0, 0%, 83%);
+.grayColorName {
+  color: hsl(0, 0%, 50%);
+}
+
+.grayColorUnderline {
+  border-bottom: 3px solid hsl(0, 0%, 50%);
+}
+/* ____________________________________ */
+.lightBlueFooterColor {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(195, 53%, 69%);
+  text-align: center;
+  padding: 30px;
+/* ____________________________________ */
+}
+
+.lightBlueBackground {
+  background-color: hsl(195, 53%, 69%);
 }
 
 .whiteBackground {
