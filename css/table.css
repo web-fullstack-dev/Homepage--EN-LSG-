@@ -11,6 +11,7 @@
   padding: 10px;
 }
 
+
 .tableTH {
   color: hsl(0, 0%, 100%);
   background-color: hsl(195, 53%, 79%);
@@ -36,3 +37,9 @@
   text-align: center;
   border: 1px solid hsl(0, 0%, 50%);
 }
+/* _________________________________ */
+.tableTR:hover {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 50%);
+}
+/* __________________________________ */
