@@ -7,14 +7,19 @@
 }
 
 .button:hover {
-  color: hsl(0, 0%, 50%);
-  background-color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 50%);
+}
+
+.button:active {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0,0%, 60%);
 }
 
 .lightGrayBackground {
   background-color: hsl(0, 0%, 83%);
 }
 
-.lightBlueBackground {
-  background-color: hsl(195, 53%, 79%);
+.whiteBackground {
+  background-color: hsl(0, 0%, 100%);
 }
