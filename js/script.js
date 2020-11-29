@@ -7,8 +7,8 @@
     const container = document.querySelector(".container")
     const nextColorName = document.querySelector(".js-nextColorName");
 
-    container.classList.toggle("lightBlueBackground");
-    nextColorName.innerText = container.classList.contains("lightBlueBackground") ? "lightgray" : "lightblue";
+    container.classList.toggle("whiteBackground");
+    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightgray" : "white";
   };
   
   
