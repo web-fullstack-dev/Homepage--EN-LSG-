@@ -7,9 +7,8 @@
   const toggleBackground = () => {
     const container = document.querySelector(".container")
     const nextColorName = document.querySelector(".js-nextColorName");
-    // _________________
+
     const navColor = document.querySelector(".navColor");
-    // _________________
     const imageColor = document.querySelector(".imageColor");
     const nameColor = document.querySelector(".nameColor");
     const underlineColor = document.querySelector(".underlineColor");
@@ -20,14 +19,12 @@
     container.classList.toggle("whiteBackground");
     nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightblue" : "white";
     
+    navColor.classList.toggle("lightblueNavColor");
+    imageColor.classList.toggle("lightblueColorImage");
+    nameColor.classList.toggle("lightblueColorName");
+    underlineColor.classList.toggle("lightblueColorUnderline"); 
     // __________________
-    navColor.classList.toggle("lightBlueNavColor");
-    // __________________
-    imageColor.classList.toggle("grayColorImage");
-    nameColor.classList.toggle("grayColorName");
-    underlineColor.classList.toggle("grayColorUnderline"); 
-    // __________________
-    footerColor.classList.toggle("lightBlueFooterColor");
+    footerColor.classList.toggle("lightblueFooterColor");
     // __________________
   };
   
