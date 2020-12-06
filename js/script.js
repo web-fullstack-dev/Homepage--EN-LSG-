@@ -19,10 +19,12 @@
     container.classList.toggle("whiteBackground");
     nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightblue" : "white";
     
-    navColor.classList.toggle("lightblueNavColor");
+    // navColor.classList.toggle("lightblueNavColor");
+
     imageColor.classList.toggle("lightblueColorImage");
     nameColor.classList.toggle("lightblueColorName");
     underlineColor.classList.toggle("lightblueColorUnderline"); 
+
     // __________________
     footerColor.classList.toggle("lightblueFooterColor");
     // __________________
