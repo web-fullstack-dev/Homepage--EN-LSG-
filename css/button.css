@@ -31,12 +31,12 @@
 
 .lightblueColorUnderline {
   border-bottom: 3px solid hsl(195, 53%, 79%);
-}
+} 
 /* ____________________________________ */
 .lightblueFooterColor {
   background-color: hsl(195, 53%, 69%);
-/* ____________________________________ */
 }
+/* ____________________________________ */
 
 .lightblueBackground {
   background-color: hsl(195, 53%, 69%);
