@@ -13,9 +13,9 @@
     const nameColor = document.querySelector(".nameColor");
     const underlineColor = document.querySelector(".underlineColor");
 
-    const underlineColor__2 = document.querySelector(".underlineColor__2");
-    const underlineColor__3 = document.querySelector(".underlineColor__3");
-    const underlineColor__4 = document.querySelector(".underlineColor__4");
+    const underlineColor__color__lightblue = document.querySelector(".underlineColor__color__lightblue");
+    const underlineColor__colorLightBlue = document.querySelector(".underlineColor__colorLightBlue");
+    const underlineColor__colorLight = document.querySelector(".underlineColor__colorLight");
     // _________________
     const footerColor = document.querySelector(".footerColor");
     // _________________
@@ -29,9 +29,9 @@
     nameColor.classList.toggle("lightblueColorName");
     underlineColor.classList.toggle("lightblueColorUnderline"); 
 
-    underlineColor__2.classList.toggle("lightblueColorUnderline"); 
-    underlineColor__3.classList.toggle("lightblueColorUnderline"); 
-    underlineColor__4.classList.toggle("lightblueColorUnderline"); 
+    underlineColor__color__lightblue.classList.toggle("lightblueColorUnderline"); 
+    underlineColor__colorLightBlue.classList.toggle("lightblueColorUnderline"); 
+    underlineColor__colorLight.classList.toggle("lightblueColorUnderline"); 
     // __________________
     footerColor.classList.toggle("lightblueFooterColor");
     // __________________
