@@ -47,6 +47,11 @@
   background-color: hsl(0, 0%, 95%);
 }
 
+.check--green {
+  color: green;
+  font-weight: bold;
+}
+
 .tableTH, .tableTD {
   text-align: center;
   border: 1px solid hsl(0, 0%, 50%);
