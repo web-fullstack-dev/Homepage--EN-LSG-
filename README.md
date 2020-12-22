@@ -1,4 +1,7 @@
 # Simple homepage about the author's results in Front-End's education
+
+[Link](https://mrpenguin-dev.github.io/Homepage--JavaScript/)
+
 #### Added:
 1. Navigation with: (Homepage, About the author, My skills and Interaction in JS)
 2. Image and section with text about me
