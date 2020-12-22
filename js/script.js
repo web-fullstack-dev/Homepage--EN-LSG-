@@ -3,33 +3,20 @@
     console.log("Hello to all developers, who visit here 🔒")
   };
   
-  
   const toggleBackground = () => {
     const container = document.querySelector(".container")
     const nextColorName = document.querySelector(".js-nextColorName");
-
-    // const navColor = document.querySelector(".navColor");
     const imageColor = document.querySelector(".imageColor");
     const nameColor = document.querySelector(".nameColor");
     const underlineColor = document.querySelector(".underlineColor");
-    // _______________
-    // const footerColor = document.querySelector(".footerColor");
-    // _________________
-    
+
     container.classList.toggle("whiteBackground");
-    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightblue" : "white";
-    
-    // navColor.classList.toggle("lightblueNavColor");
+    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightseagreen" : "white";
+    imageColor.classList.toggle("lightSeaGreenColorImage");
+    nameColor.classList.toggle("lightSeaGreenColorName");
+    underlineColor.classList.toggle("lightSeaGreenColorUnderline"); 
 
-    imageColor.classList.toggle("lightblueColorImage");
-    nameColor.classList.toggle("lightblueColorName");
-    underlineColor.classList.toggle("lightblueColorUnderline"); 
-
-    // __________________
-    // footerColor.classList.toggle("lightblueFooterColor");
-    // __________________
   };
-  
   
   const init = () => {
     const changeBackground = document.querySelector(".js-changeBackground");

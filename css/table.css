@@ -13,13 +13,13 @@
 
 .tableTH {
   color: hsl(0, 0%, 100%);
-  background-color: hsl(195, 53%, 79%);
+  background-color: hsl(177, 70%, 59%);
   padding: 10px;
   transition: 0.3s;
 }
 
 .tableTH:hover {
-  background-color: hsl(195, 53%, 59%);
+  background-color: hsl(177, 70%, 44%);
 }
 
 .tableTD {
@@ -32,18 +32,12 @@
   background-color: hsl(0, 0%, 95%);
 }
 
-.check--green {
-  color: green;
-  font-weight: bold;
-}
-
 .tableTH, .tableTD {
   text-align: center;
   border: 1px solid hsl(0, 0%, 50%);
 }
-/* _________________________________ */
+
 .tableTR:hover {
   color: hsl(0, 0%, 100%);
   background-color: hsl(0, 0%, 50%);
 }
-/* __________________________________ */
