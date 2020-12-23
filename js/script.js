@@ -14,7 +14,7 @@
     nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightseagreen" : "white";
     imageColor.classList.toggle("lightSeaGreenColorImage");
     nameColor.classList.toggle("lightSeaGreenColorName");
-    underlineColor.classList.toggle("lightSeaGreenColorUnderline"); 
+    underlineColor.classList.toggle("lightSeaGreenUnderline"); 
 
   };
   
