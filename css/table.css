@@ -19,7 +19,8 @@
 }
 
 .tableTH:hover {
-  background-color: hsl(177, 70%, 44%);
+  background-color: hsl(203, 92%, 55%);
+  /* background-color: hsl(177, 70%, 44%); */
 }
 
 .tableTD {
