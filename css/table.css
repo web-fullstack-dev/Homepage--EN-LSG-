@@ -12,25 +12,26 @@
 }
 
 .tableTH {
+  background-color: hsl(203, 92%, 55%);
   color: hsl(0, 0%, 100%);
-  background-color: hsl(177, 70%, 59%);
   padding: 10px;
-  transition: 0.3s;
+  transition: background 0.3s;
 }
 
 .tableTH:hover {
-  background-color: hsl(203, 92%, 55%);
-  /* background-color: hsl(177, 70%, 44%); */
+  background-color: hsl(0, 0%, 65%);
 }
 
 .tableTD {
   color: hsl(0, 0%, 50%);
   padding: 10px;
   background-color: hsl(0, 0%, 100%);
+  transition: color 0.3s;
 }
 
 .tableTD:hover {
-  background-color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(203, 92%, 55%);
 }
 
 .tableTH, .tableTD {
