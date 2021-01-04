@@ -18,39 +18,20 @@
 
 .lightSkyBlueColorImage {
   border: 6px solid hsl(203, 92%, 55%);
-  /* border: 6px solid hsl(177, 70%, 41%); */
   box-shadow: 3px 3px 15px hsl(203, 92%, 55%);
-  /* box-shadow: 3px 3px 15px hsl(177, 70%, 41%); */
 }
-
-/* .lightSeaGreenColorImage {
-  border: 6px solid hsl(177, 70%, 41%);
-  box-shadow: 3px 3px 15px hsl(177, 70%, 41%);
-} */
 
 .lightSKyBlueColorName {
   color: hsl(203, 92%, 55%);
 }
 
-/* .lightSeaGreenColorName {
-  color: hsl(177, 70%, 41%);
-} */
-
 .lightSkyBlueColorUnderline {
   border-bottom: 3px solid hsl(203, 92%, 55%);
 } 
 
-/* .lightSeaGreenColorUnderline {
-  border-bottom: 3px solid hsl(177, 70%, 41%);
-}  */
-
 .lightSkyBlueBackground {
   background-color: hsl(203, 92%, 75%);
 }
-
-/* .lightSeaGreenBackground {
-  background-color: hsl(177, 70%, 41%);
-} */
 
 .whiteBackground {
   background-color: hsl(0, 0%, 100%);
