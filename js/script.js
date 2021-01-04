@@ -11,7 +11,7 @@
     const underlineColor = document.querySelector(".underlineColor");
 
     container.classList.toggle("whiteBackground");
-    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightseagreen" : "white";
+    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightskyblue" : "white";
     imageColor.classList.toggle("lightSkyBlueColorImage");
     nameColor.classList.toggle("lightSKyBlueColorName");
     underlineColor.classList.toggle("lightSkyBlueColorUnderline"); 
