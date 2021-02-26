@@ -16,9 +16,9 @@
   background-color: hsl(0,0%, 60%);
 }
 
-.lightSkyBlueColorImage {
-  border: 6px solid hsl(203, 92%, 55%);
-  box-shadow: 3px 3px 15px hsl(203, 92%, 55%);
+.lightCoralColorImage {
+  border: 6px solid hsl(16, 100%, 88%);
+  box-shadow: 3px 3px 15px hsl(16, 100%, 88%);
 }
 
 .lightSKyBlueColorName {
