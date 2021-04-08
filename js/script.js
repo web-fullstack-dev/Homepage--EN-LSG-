@@ -11,10 +11,10 @@
     const underlineColor = document.querySelector(".underlineColor");
 
     container.classList.toggle("whiteBackground");
-    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightskyblue" : "white";
-    imageColor.classList.toggle("lightCoralColorImage");
-    nameColor.classList.toggle("lightSKyBlueColorName");
-    underlineColor.classList.toggle("lightSkyBlueColorUnderline"); 
+    nextColorName.innerText = container.classList.contains("whiteBackground") ? "lightslategrey" : "white";
+    imageColor.classList.toggle("lightSlateGreyColorImage");
+    nameColor.classList.toggle("lightSlateGreyColorName");
+    underlineColor.classList.toggle("lightSlateGreyColorUnderline"); 
 
   };
   
