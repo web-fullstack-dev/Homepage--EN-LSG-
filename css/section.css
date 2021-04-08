@@ -21,3 +21,7 @@
   width: 100%;
   border-bottom: 3px solid hsl(0, 0%, 100%); 
 }
+
+.section__header, .section__paragraph {
+  color: hsl(210, 14%, 63%);
+}
