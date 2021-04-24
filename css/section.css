@@ -1,3 +1,26 @@
+.section__button {
+  background-color: hsl(0, 0%, 100%);
+  border-style: none;
+  font-size: 14px;
+  padding: 8px;
+  margin: 5px;
+  transition: 0.1s;
+  cursor: context-menu;
+}
+
+.section__button:hover {
+  background-color: hsl(0, 0%, 93%);
+}
+
+.section__button--link {
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+}
+
+.section {
+  cursor: context-menu;
+}
+
 .headerCentered {
   text-align: center;
 }
@@ -14,6 +37,7 @@
 .sectionHeaderH1 {
   color: hsl(0, 0%, 100%);
   font-size: 33px;
+  cursor: context-menu;
 }
 
 .div__underline--white {
