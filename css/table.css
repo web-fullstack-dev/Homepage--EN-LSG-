@@ -1,6 +1,7 @@
 .tabelAboutMySkills {
   color: hsl(210, 13%, 55%);
   background-color: hsl(210, 13%, 55%);
+  cursor: context-menu;
 }
 
 .tableCaptionAboutMySkills {
@@ -9,6 +10,7 @@
   font-weight: bold;
   font-size: 30px;
   padding: 15px;
+  cursor: context-menu;
 }
 
 .tableTH {
@@ -29,6 +31,7 @@
   padding: 10px;
   background-color: hsl(0, 0%, 100%);
   transition: color 0.3s;
+  cursor: context-menu;
 }
 
 .tableTD:hover {

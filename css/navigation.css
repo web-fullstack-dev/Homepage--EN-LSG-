@@ -12,6 +12,7 @@
   color: hsl(0, 0%, 100%);
   list-style: none;
   text-decoration: none;
+  cursor: context-menu;
 }
 
 .navLinkLI {
