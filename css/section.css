@@ -8,6 +8,15 @@
   cursor: context-menu;
 }
 
+.section__button--lightseagreen.section__button--lightseagreen  {
+  background-color: hsl(177, 70%, 41%);
+  color:hsl(0, 0%, 100%);
+}
+
+.section__button--lightseagreen.section__button--lightseagreen:hover  {
+  background-color: hsl(177, 70%, 46%);
+}
+
 .section__button:hover {
   background-color: hsl(0, 0%, 93%);
 }
