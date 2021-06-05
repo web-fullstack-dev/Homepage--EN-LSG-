@@ -1,3 +1,13 @@
+.button {
+  color: hsl(210, 13%, 50%);
+  background-color: hsl(0, 0%, 100%);
+  border-style: none;
+  font-size: 18px;
+  padding: 16px;
+  margin: 5px;
+  cursor: context-menu;
+}
+
 .section__button {
   color: hsl(210, 13%, 50%);
   background-color: hsl(0, 0%, 100%);
